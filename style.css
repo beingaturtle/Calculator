@@ -26,11 +26,12 @@ body {
   font-size: 2rem;
   border: 1px solid white;
   outline: none;
-  background-color: rgba(255, 255, 255, 0.75);
+  background-color: rgba(71, 71, 71, 0.5);
+  color: white;
 }
 
 .calculator-grid > button:hover {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(0, 0, 0, 0.45);
 }
 
 .span-two {
@@ -39,7 +40,7 @@ body {
 
 .output {
   grid-column: 1 / -1;
-  background-color: rgba(0, 0, 0, 0.75);
+  background-color: rgba(68, 67, 67, 0.5);
   display: flex;
   align-items: flex-end;
   justify-content: space-around;
