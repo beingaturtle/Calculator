@@ -1,1 +1,1 @@
-# calculator
+# Cool Calculator
