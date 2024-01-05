@@ -1,4 +1,2 @@
-# Cool Calculator
-
-[Calcuatlor Demo](https://beingaturtle.github.io/Calculator/)
-!(./Calcimage.png)
+[Calculator Demo](https://beingaturtle.github.io/Calculator/)
+![Calculator](Calcimage.png)
